@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AccountTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-21T01:35:19" hostname="MUKAGALA" time="0.253">
+  <properties/>
+  <testcase name="shouldMakeAnInitialWithdrawalOf50AndHaveAnEndingBalanceOf50()" classname="AccountTest" time="0.139"/>
+  <testcase name="shouldMakeAnInitialDepositOf50AndHaveAnEndingBalanceOf150()" classname="AccountTest" time="0.014"/>
+  <testcase name="shouldHaveAnInitialBalanceOf100()" classname="AccountTest" time="0.015"/>
+  <testcase name="shouldHaveAnInitialBalanceOf200()" classname="AccountTest" time="0.007"/>
+  <testcase name="shouldHaveABalanceOf100AfterWithdrawalAttemptOf101()" classname="AccountTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
